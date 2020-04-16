@@ -10,10 +10,8 @@ def happy_birthday(birthday_kids)
   end
 
 def age_appropriate_birthday(birthday_kids)
-  birthday_kids.each do |kids_name, age|
-    puts "You are not too old for this"
+  birthday_kids.each do 
   end
-  birthday_kids
 end
 
 
